@@ -38,7 +38,7 @@ Evaluation uses **Scale-Invariant SNR (SI-SNR)**, which finds the optimal scalin
 
 ## Results
 
-![Spectrogram comparison](figures/spectrogram_comparison.png)
+![Spectrogram comparison](spectrogram_comparison.png)
 
 *Top: Noisy input. Bottom: Wiener filter output. Speech segments (voiced syllables) are visible as energy concentrations near 0 Hz that survive filtering while broadband noise is suppressed.*
 
